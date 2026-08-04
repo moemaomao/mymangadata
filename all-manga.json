@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Judul Manga",
+    "slug": "judul-manga",
+    "img": "https://...",
+    "desc": "Sinopsis...",
+    "genres": ["Action", "Fantasy"],
+    "rating": 8.5,
+    "status": "ongoing",
+    "type": "manga",
+    "isUp": false,
+    "author": "Author",
+    "artist": "Artist"
+  }
+]
