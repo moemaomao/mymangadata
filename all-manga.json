@@ -1,15 +1,15 @@
 [
   {
-    "title": "Judul Manga",
+    "title": "Gokusotsu Kraken",
     "slug": "judul-manga",
-    "img": "https://...",
-    "desc": "Sinopsis...",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxppcqwwU4PWd7QZSY_-WiuJDah7pTbK1y6vo4AircpU7uIf_yveLuf4q9ohtNIy_OfltAnOCZEsscr04Ov9x0sbgWPV9T7Lv4s1Wa5-OsOmxJiK0StvsBM_8l17FMKJQFE-b0_79D5_3td_RqnBU6G53og3LPxPfgiOy8rcFxwL30pxlqMWEgBEgCL3Q/s1920/Prison%20Guard%20Kraken.jpg.",
+    "desc": "Shimizu Kuuma, seorang laki-laki, yang baru saja kembali dari wawancara kerja yang tidak bisa dia selesaikan, tiba-tiba dikirim ke dunia lain, di sana dia bertemu dengan seorang gadis tertentu yang membantunya dan memberinya pekerjaan di penjara tetapi yang tidak dia ketahui adalah bahwa itu hanya jebakan.",
     "genres": ["Action", "Fantasy"],
     "rating": 8.5,
     "status": "ongoing",
     "type": "manga",
     "isUp": false,
-    "author": "Author",
-    "artist": "Artist"
+    "author": "Takahiro",
+    "artist": "Toru Kei"
   }
 ]
