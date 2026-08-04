@@ -34,8 +34,7 @@
       "Harem",
       "Romance",
       "Seinen",
-      "Smut"
-    ],
+      "Smut"],
     "rating": 7.6,
     "status": "ongoing",
     "type": "manga",
@@ -49,5 +48,34 @@
     "characters": "",
     "circle": "",
     "group": ""
-  }
+  },
+  {
+  "title": "The Hero Wants a Milf as a Reward",
+  "altTitle": "勇者さまは報酬に人妻をご希望です; Yuusha-sama wa Houshuu ni Hitozuma wo Go Kibou desu",
+  "slug": "the-hero-wants-a-milf-as-a-reward",
+  "img": "https://cdn.myanimelist.net/images/manga/2/272693.jpg",
+  "desc": "Chloe adalah seorang pahlawan yang memiliki permintaan hadiah yang tidak biasa setiap kali menyelamatkan sebuah kota. Alih-alih emas atau gelar kehormatan, ia justru meminta wanita yang sudah menikah sebagai imbalannya. Kisah fantasi dewasa yang memadukan aksi, petualangan, dan komedi dengan seorang pahlawan yang eksentrik.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Harem",
+    "Romance",
+    "Seinen",
+    "Ecchi"],
+  "rating": 7.5,
+  "status": "ongoing",
+  "type": "manga",
+  "isUp": false,
+  "author": "Burin Toyama",
+  "artist": "Burin Toyama",
+  "publication": "2022",
+  "serialization": "Comic Kairakuten BEAST",
+  "demographic": "Seinen",
+  "series": "",
+  "characters": "Chloe",
+  "circle": "",
+  "group": ""
+}
 ]
