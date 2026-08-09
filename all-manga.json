@@ -30,7 +30,7 @@
     "rating": 8.5,
     "status": "ongoing",
     "type": "manga",
-    "isUp": false,
+    "isUp": true,
     "author": "Takahiro",
     "artist": "Toru Kei",
     "publication": "2023",
