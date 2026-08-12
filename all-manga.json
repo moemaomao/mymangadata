@@ -282,7 +282,7 @@
   "rating": 6.5,
   "status": "ongoing",
   "type": "manga",
-  "isUp": false,
+  "isUp": up,
   "author": "Kusamochi",
   "artist": "Nemumi Haiba",
   "publication": "2024",
