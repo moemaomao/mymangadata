@@ -156,7 +156,7 @@
   "rating": 8.3,
   "status": "ongoing",
   "type": "manga",
-  "isUp": false,
+  "isUp": true,
   "author": "Yomu Mishima",
   "artist": "Kai Nadashima",
   "publication": "2021",
